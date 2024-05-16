@@ -1,0 +1,21 @@
+.cube-div{
+    width: 100px;
+    height: 100px;
+    animation-name: rainbow-cube;
+    background-color: red;
+    animation-timing-function:ease ;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+
+}
+.container{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    justify-content: center;
+   }
+
+
+
+
+
