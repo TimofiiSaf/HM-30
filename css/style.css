@@ -15,6 +15,29 @@
     justify-content: center;
    }
 
+   @keyframes redcube{
+    0%{
+        
+    background-color: red;
+    transform: translateX(-200px) ;
+ }
+    25%{
+    transform: translateX(200px);
+        background-color: green;
+    }
+    50%{
+      background-color: blue;
+      transform:translate(200px, 200px) ;
+    }
+    75%{
+        background-color: orange; 
+        transform: translate(-200px, 200px);
+     }
+     100%{
+        background-color: red;
+        transform: translateX(-200px);
+     }
+ }
 
 
 
