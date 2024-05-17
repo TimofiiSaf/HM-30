@@ -15,7 +15,7 @@
     justify-content: center;
    }
 
-   @keyframes redcube{
+   @keyframes rainbow-cube{
     0%{
         
     background-color: red;
